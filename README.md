@@ -9,4 +9,4 @@ This repo contains Jupyter Notebooks Relating to Open Context (https://openconte
 
 ## ANTH 641 Week 6_2
 
-Use the markdown file in this repo to guide your exercise. This was adapted from the original Open Context notebook by Eric Kansa. 
+Use the markdown file in this repo to guide your exercise. This was adapted from the original Open Context notebook by Eric Kansa. Make sure to fork this repo and set up your own mybinder.org environment to run the Jupyter notebooks - copy the binder link and replace the one above. 
