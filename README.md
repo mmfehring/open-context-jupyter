@@ -1,4 +1,8 @@
-# Open Context API
+# ANTH 641 Week 6_2
+
+Differently than early in-class activities, there is no specific markdown file providing instructions on your Week 6_2 exercise. Make sure to fork this repo and set up your own mybinder.org environment to run the Jupyter notebooks - copy the binder link and replace the one below. When you launch your binder open the This was adapted from the original Open Context notebook by Eric Kansa. 
+
+## Open Context API
 
 [![DOI](https://zenodo.org/badge/134486684.svg)](https://zenodo.org/badge/latestdoi/134486684)
 
@@ -6,7 +10,3 @@ This repo contains Jupyter Notebooks Relating to Open Context (https://openconte
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kgarstki/open-context-jupyter/master)
 
-
-## ANTH 641 Week 6_2
-
-Use the markdown file in this repo to guide your exercise. This was adapted from the original Open Context notebook by Eric Kansa. Make sure to fork this repo and set up your own mybinder.org environment to run the Jupyter notebooks - copy the binder link and replace the one above. 
